@@ -3,4 +3,5 @@
 git status 
 git add * 
 git commit -m "just update" 
-git push main ori
+git push origin main 
+
